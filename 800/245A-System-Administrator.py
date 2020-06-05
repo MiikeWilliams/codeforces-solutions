@@ -1,7 +1,7 @@
 n = int(input())
 ax, ay, bx, by = 0, 0, 0, 0
 for _ in range(n):
-    l = input().split(" ")
+    l = input().split()
     t = int(l[0])
     x = int(l[1])
     y = int(l[2])
