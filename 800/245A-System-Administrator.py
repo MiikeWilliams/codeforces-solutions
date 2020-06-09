@@ -7,7 +7,7 @@ for _ in range(n):
     y = int(l[2])
     if t == 1:
         ax += x
-        ay += y 
+        ay += y
     else:
         bx += x
         by += y
